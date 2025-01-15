@@ -92,7 +92,7 @@ DATABASES = {
             "USER":"admin",  # 사용자 username
             "PASSWORD":"smtluv0528!",
             "HOST":"mypoll-db.cl2qqauk4zfx.ap-northeast-2.rds.amazonaws.com",
-            "PORT":"3306"
+            "PORT":"3306",
         }
     }
 }
